@@ -22,3 +22,4 @@ Laravelを使ったアンケートフォームシステムです。
 
 - ID：manager
 - PASS：SPi247TJD0
+- 実際にアンケート投稿してもOK
