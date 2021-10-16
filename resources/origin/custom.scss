@@ -1,0 +1,113 @@
+@import "../bootstrap5/bootstrap";
+@import "../bootstrap-icons/font/bootstrap-icons.css";
+
+table.table {
+  th, td {
+    padding: 1rem;
+  }
+  th {
+    text-align: center;
+    vertical-align: middle;
+  }
+  td:nth-child(2){
+    // text-align: center;
+  }
+}
+
+table.google-visualization-table-table {
+  th,td {
+    padding: 1rem;
+  }
+  td:nth-child(2){
+    text-align: center;
+  }
+}
+
+table.list {
+  td:nth-child(2){
+    text-align: center;
+  }
+}
+
+ul.error {
+  color: $danger;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+  li {
+    margin-left: 1rem;
+    text-indent: -1rem;
+    color: $danger;
+    &:before {
+      content: "※";
+    }
+  }
+}
+ul.notice {
+  color: $warning;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-size: 0.8rem;
+  li {
+    margin-left: 1rem;
+    text-indent: -1rem;
+    color: $warning;
+    &:before {
+      content: "※";
+    }
+  }
+}
+
+.answer {
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: $secondary;
+}
+
+.nav-item {
+  a {
+    font-weight: 900;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+  @include media-breakpoint-down(xxl) {
+  }
+  @include media-breakpoint-down(xl) {
+  }
+  @include media-breakpoint-down(lg) {
+  }
+  @include media-breakpoint-down(md) {
+    // font-size: 1.3rem;
+  }
+  @include media-breakpoint-down(sm) {
+    font-size: 1.2rem;
+  }
+}
+
+h2 {
+  font-size: 1.5rem;
+  @include media-breakpoint-down(xxl) {
+  }
+  @include media-breakpoint-down(xl) {
+  }
+  @include media-breakpoint-down(lg) {
+  }
+  @include media-breakpoint-down(md) {
+    // font-size: 1.3rem;
+  }
+  @include media-breakpoint-down(sm) {
+    font-size: 1.2rem;
+  }
+}
+
+.thanks {
+  // width: 30%;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
