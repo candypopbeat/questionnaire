@@ -16,7 +16,7 @@ Laravelを使ったアンケートフォームシステムです。
 - スタッフや管理者がリアルタイムで集計閲覧できるようになっている
 
 ## Demo User
-<a href="questionnaire.ryukyuhub.co.jp" target="_blank" rel="noopener">questionnaire.ryukyuhub.co.jp</a>
+<a href="https://questionnaire.ryukyuhub.co.jp" target="_blank" rel="noopener">questionnaire.ryukyuhub.co.jp</a>
 - 実際にアンケート投稿してもOK
 
 ## Demo Manager
