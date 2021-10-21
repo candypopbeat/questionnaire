@@ -17,12 +17,12 @@ Laravelを使ったアンケートフォームシステムです。
 
 ## Demo User
 
-[questionnaire.ryukyuhub.co.jp](https://questionnaire.ryukyuhub.co.jp)
+[questionnaire.ryukyuhub.co.jp](https://questionnaire.ryukyuhub.co.jp){:target="_blank"}
 - 実際にアンケート投稿してもOK
 
 ## Demo Manager
 
-[questionnaire.ryukyuhub.co.jp/login](https://questionnaire.ryukyuhub.co.jp/login)
+[questionnaire.ryukyuhub.co.jp/login](https://questionnaire.ryukyuhub.co.jp/login){:target="_blank"}
 
 - ID：manager
 - PASS：SPi247TJD0
