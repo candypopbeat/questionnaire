@@ -15,10 +15,14 @@ Laravelを使ったアンケートフォームシステムです。
 - 聞き取りスタッフが直接やりとりしやすいようにもできている
 - スタッフや管理者がリアルタイムで集計閲覧できるようになっている
 
-## Demo
+## Demo User
 
 [questionnaire.ryukyuhub.co.jp](https://questionnaire.ryukyuhub.co.jp)
+- 実際にアンケート投稿してもOK
+
+## Demo Manager
+
+[questionnaire.ryukyuhub.co.jp/login](https://questionnaire.ryukyuhub.co.jp/login)
 
 - ID：manager
 - PASS：SPi247TJD0
-- 実際にアンケート投稿してもOK
